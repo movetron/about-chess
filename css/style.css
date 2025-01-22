@@ -2118,9 +2118,6 @@ html {
     grid-template-columns: repeat(5, 100%);
   }
 
-  .stages {
-    padding: 0px 0px 120px 0px;
-  }
 
   .members__list {
     gap: 0;
